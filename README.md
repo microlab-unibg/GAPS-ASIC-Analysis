@@ -65,3 +65,6 @@ peaking time will be required and the analysis will be performed only wrt that p
 - Paolo Lazzaroni, p.lazzaroni(at)studenti.unibg.it
 
 ## License
+MIT License
+
+Copyright (c) 2020 Matteo Fratus and Paolo Lazzaroni
