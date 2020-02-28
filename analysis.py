@@ -58,7 +58,7 @@ isProcessed:
 
 singleMeasures:
     If this parameter is set to True, the script will ask for a single (for now) peaking time to
-    be analysed, while other peaking times will be ignored.
+    be analysed, while other peaking times will be ignored. This parameter is supported for ENC analysis so far.
 
 plotX (where X = {plotPedestal, Waveform, TransferFunction, ThresholdScanRaw, ThresholdScanFittedTau, ThresholdScanFittedFthr})
     These parameters will decide whether plots will be yielded for each analysis.
