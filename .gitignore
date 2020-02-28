@@ -1,0 +1,8 @@
+*.ipynb
+
+data/
+old/
+PDF/
+defaults.defs
+
+__pycache__/
